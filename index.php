@@ -1,24 +1,25 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
 <head>
-	<title>title</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
-	<meta name="robots" content="index,follow" />
-	<link rel="stylesheet" type="text/css" href="styles.css" />
+    <title>title</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="robots" content="index,follow" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
 </head>
 
 <body>
-	
-	<h1>Тест GIt</h1>
-	<h2>новое изменение</h2>
-<?php
 
+    <h1>РўРµСЃС‚ GIt</h1>
+    <h2>РЅРѕРІРѕРµ РёР·РјРµРЅРµРЅРёРµ</h2>
+    <?php
+12
 
-
+    dfhd
 
 ?>
 </body>
-</html>
 
+</html>
